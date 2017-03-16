@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuenchauA3</string>
+    <string name="choose">Please choose a website</string>
+    <string name="mesa">Mesa College</string>
+    <string name="google">Google</string>
+    <string name="go">Go</string>
+</resources>
